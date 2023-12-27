@@ -1,4 +1,4 @@
-const SIZE_PER_CHUNK = 2000;
+const SIZE_PER_CHUNK = 1000;
 const BATCH_ID = 'unique_batch_id_123';
 
 function divideDataIntoChunks(data, chunkSize) {
